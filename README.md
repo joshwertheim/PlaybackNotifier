@@ -1,7 +1,7 @@
 PlaybackNotifier
 ================
 
-Goal: Simple program meant to pull the currently playing media file in either of the iTunes or Spotify applications and post it as a local notification.
+Goal: Program meant to pull the currently playing media file in either of the iTunes or Spotify applications and post it as a local notification.
 
 Personally, I like to know the current song playing. I know the music in my library, but if I'm working on a task, I prefer to have glanceable information. I had always wanted this feature, but it wasn't native. That's why I decided to attempt to write the feature myself. I couldn't integrate it directly with iTunes, but that obstacle actually became a cool opportunity. I could work to add compatibility with music services other than iTunes.
 
